@@ -1,0 +1,27 @@
+#contentArea{width:400px;margin:0 auto;position:relative}
+#main{width:300px;padding:15px 15px 15px 0;float:left}
+.contentSection
+{
+   position:relative;
+   border:1px solid #DDD;
+   margin:0px;
+   /* background-color:#a5d1ee; */
+   border-radius:49px;
+   padding:15px 35px;
+   box-shadow:1px 1px 1px rgba(0, 0, 0, 0.03), 0 0 25px rgba(0, 0, 0, 0.08) inset;
+   
+}
+#postBody{line-height:1;padding:15px}
+.form{font-size:small; color: blue;}
+
+.flash
+{
+   position:relative;
+   color:red;
+   background-color: #ffe6e6;
+   border-radius:4px;
+   text-align:center;
+   box-shadow:1px 1px 1px rgba(0, 0, 0, 0.03), 0 0 25px rgba(0, 0, 0, 0.08) inset;
+   font-family:"Segoe UI", Geneva, Tahoma, Verdana, sans-serif ;
+}
+
